@@ -1,28 +1,28 @@
-# OPC Builder｜政企投标全栈AI助手
-## 🏆 参赛信息
-- 比赛：商汤小浣熊OPC能力挑战赛
-- 赛道：赛道二 OPC高手创造赛
-- 场景：政企云资源服务投标全流程自动化
+> **已归档 / Archived** — 本仓库已 GitHub Archive（只读）。
+>
+> **材料包参考，非息壤杯主仓。** PPT / 投标全文 MD / 交付说明可作参考；可运行工程与预赛提交请用：**[chengjuntai-opc-xirang](https://github.com/yigenfeng0707-netizen/chengjuntai-opc-xirang)**（成军台）。
 
-## 📋 作品简介
-本作品面向政企云资源服务投标场景，以一人全栈方式驱动AI完成招标解析、投标目录、商务技术应答、业绩佐证、报价策略、合规自检与评分攻坚，形成从需求识别到交付审查的全链路自动化闭环。在不使用真实客户、真实项目和机密信息的前提下，验证AI在真实政企业务中的落地价值，并沉淀可复用的投标生产方法论。
+---
 
-## 📦 文件清单
+# OPC Builder · 政企投标全栈 AI 助手
+
+## 参赛信息
+- 比赛名称：商汤小浣熊 OPC 能力挑战赛
+- 参赛赛道：赛道二 OPC 能力挑战赛
+- 作品主题：政企资源采购投标全流程自动化
+
+## 产品简介
+本仓库主要为赛题材料包（PPT / 投标全文 / 交付说明），几乎无可运行应用代码。章节结构与叙事已吸收进成军台标书工作台；息壤杯预赛请提交成军台仓库。
+
+## 文件清单
 | 文件 | 说明 |
 | :--- | :--- |
-| opc-competition-pitch-deck.pptx | 参赛演示PPT |
-| opc-bid-complete-package.md | 完整投标方案包 |
+| opc-competition-pitch-deck.pptx | 参赛演示 PPT |
+| opc-bid-complete-package.md | 完整投标方案正文 |
 | opc-competition-delivery-doc.docx | 正式交付文档 |
-| opc-competition-intro.txt | 参赛简介 |
-| tender-extracted-text.txt | 招标文件解析结果 |
-| opc-competition-submission-package.zip | 完整作品压缩包 |
+| opc-competition-intro.txt | 作品简介 |
+| tender-extracted-text.txt | 招标文件提取文本 |
+| opc-competition-submission-package.zip | 参赛作品压缩包 |
 
-## 🚀 核心能力
-1. 智能招标解析：自动提取项目信息、评分标准、技术要求
-2. 投标目录自动生成：严格匹配招标文件规范
-3. 商务+技术应答：针对性输出合规应答内容
-4. 合规自检：校验投标文件完整性、合规性
-5. 评分攻坚：对标评分项优化内容、突出得分亮点
-
-## 🛠️ 技术底座
-基于**商汤办公小浣熊OPC能力**构建，纯自然语言指令驱动，零代码实现政企投标全流程AI自动化工作流。
+## 指向
+- 息壤杯主仓：https://github.com/yigenfeng0707-netizen/chengjuntai-opc-xirang
